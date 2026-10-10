@@ -2,6 +2,10 @@
 
 Full-Stack Developer specializing in **Laravel**, **PHP**, **Livewire**, and **JavaScript**. I enjoy designing clean architectures, solving complex problems, and building products people love to use.
 
+### 🚀 Featured Project
+
+- **[Raahang](https://raahang.com)** — A Persian music platform connecting music discovery with personal memories and listening experiences.
+
 ### 🛠️ Tech Stack
 
 - PHP • Laravel • Livewire

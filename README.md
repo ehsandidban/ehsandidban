@@ -4,8 +4,8 @@ Full-Stack Developer specializing in **Laravel**, **PHP**, **Livewire**, and **J
 
 ### 🚀 Featured Project
 
-- **[Raahang](https://raahang.com)** — A Persian music platform connecting music discovery with personal memories and listening experiences.
-
+- **[Raahang](https://raahang.com)** — A music platform for discovering and listening to Persian and international music, from timeless classics to modern favorites.
+- 
 ### 🛠️ Tech Stack
 
 - PHP • Laravel • Livewire
